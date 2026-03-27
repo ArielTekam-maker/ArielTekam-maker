@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ArielTekam-maker/ArielTekam-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello I'm **Ariel**, a Software Engineering Student 💻 and passionate about learning and implementing new technologies.🔥
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning \#React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 
+\#HTML5\#CSS\#JAVA
+
+### Projects
+- [Tetris Teks Version (in pure JAVA)](https://github.com/ArielTekam-maker/Tetris.git)
+
+### Connect with me
+- [LinkedIn](in/ariel-boris-tekam-56158933a)
+- [XING](https://www.xing.com/profile/ArielBoris_Tekam)
