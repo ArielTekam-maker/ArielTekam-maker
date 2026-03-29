@@ -9,6 +9,7 @@ Hello I'm **Ariel**, a Software Engineering Student 💻 and passionate about le
 
 ### Projects
 - [Tetris Teks Version (in pure JAVA)](https://github.com/ArielTekam-maker/Tetris.git)
+- [Simple Website with HTML and CSS (OpenClassroom Project)](https://github.com/ArielTekam-maker/OpenClassroom_Project)
 
 ### Connect with me
 - [LinkedIn](in/ariel-boris-tekam-56158933a)
