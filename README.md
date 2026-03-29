@@ -5,7 +5,7 @@ Hello I'm **Ariel**, a Software Engineering Student 💻 and passionate about le
 - 🌱 I’m currently learning \#React
 
 ### Skills 
-\#HTML5\#CSS\#JAVA
+\# HTML5 \# CSS \# JAVA \# Git 
 
 ### Projects
 - [Tetris Teks Version (in pure JAVA)](https://github.com/ArielTekam-maker/Tetris.git)
