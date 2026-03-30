@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Hello I'm **Ariel**, a Software Engineering Student 💻 and passionate about learning and implementing new technologies.🔥
+Hello I'm **Ariel**, a Software Engineering Student 💻 and passionate about machine learning and implementing new technologies.🔥
 
-- 🌱 I’m currently learning \#React
+- 🌱 I’m currently learning \#**JavaScript** and \#**React**.
 
 ### Skills 
 \# HTML5 \# CSS \# JAVA \# Git \# MySQL
