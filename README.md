@@ -2,10 +2,10 @@
 
 Hello I'm **Ariel**, a Software Engineering Student 💻 and passionate about machine learning and implementing new technologies.🔥
 
-- 🌱 I’m currently learning \#**JavaScript** and \#**React**.
+- 🌱 I’m currently learning \#**TypeScript** and \#**Angular**.
 
 ### Skills 
-\# HTML5 \# CSS \# JAVA \# Git \# MySQL
+\# Spring \# Angular \# HTML5 \# CSS \# JAVA \# Typescript \# Git \# MySQL
 
 ### Projects
 - [Tetris Teks Version (in pure JAVA)](https://github.com/ArielTekam-maker/Tetris.git)
