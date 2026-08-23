@@ -2,7 +2,7 @@
 
 Hello I'm **Ariel**, a Software Engineering Student 💻 and passionate about machine learning and implementing new technologies.🔥
 
-- 🌱 I’m currently learning \#**TypeScript** and \#**Angular**.
+- 🌱 I’m currently learning \#**TypeScript** and \#**React**.
 
 ### Skills 
 \# Spring \# Angular \# HTML5 \# CSS \# JAVA \# Typescript \# Git \# MySQL
