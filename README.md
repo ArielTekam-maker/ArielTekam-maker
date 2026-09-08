@@ -10,7 +10,7 @@ Hello I'm **Ariel**, a Software Engineering Student 💻 and passionate about ma
 ### Projects
 - [Tetris Teks Version (in pure JAVA)](https://github.com/ArielTekam-maker/Tetris.git)
 - [Simple Website with HTML and CSS (OpenClassroom Project)](https://github.com/ArielTekam-maker/OpenClassroom_Project)
-- Web-based Trip Planner (Spring Boot, Angular, Java, TypeScript) - ** Academic Project** From 04.2026 until 07.2026
+- Web-based Trip Planner (Spring Boot, Angular, Java, TypeScript) - **Academic Project** From 04.2026 until 07.2026
 
 ### Connect with me
 - [LinkedIn](in/ariel-boris-tekam-56158933a)
